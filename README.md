@@ -2,6 +2,7 @@
 
 Uma API básica desenvolvida com **Node.js**, **Express**, **TypeScript** e **PostgreSQL**
 
+**OBS.: Use o Postman para testar as rotas da API**
 ---
 
 ## Tecnologias
