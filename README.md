@@ -10,7 +10,6 @@ Uma API básica desenvolvida com **Node.js**, **Express**, **TypeScript** e **Po
 - **Express**  
 - **TypeScript**  
 - **PostgreSQL (pg)**  
-- **dotenv** (para variáveis de ambiente)
 
 ---
 
