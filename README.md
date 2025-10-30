@@ -13,7 +13,7 @@ Uma API básica desenvolvida com **Node.js**, **Express**, **TypeScript** e **Po
 
 ---
 
-## Instalação
+## Execução
 
 1. **Clone o repositório**
 ```
